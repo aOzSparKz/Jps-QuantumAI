@@ -24,7 +24,7 @@ const Hero = () => {
         <span className='orange_gradient '> JPs QuantumAI</span>
       </h1>
       <h2 className='desc'>
-      Discover the efficiency of JPs QuantumAI, an open-source article summarizer designed to simplify your reading. Transform lengthy articles into clear and concise summaries effortlessly with JPs QuantumAI.  </h2>
+      Discover the efficiency of JPs QuantumAI, an article summarizer designed to simplify your reading. Transform lengthy articles into clear and concise summaries effortlessly with JPs QuantumAI.  </h2>
     </header>
   );
 };
